@@ -1,2 +1,1 @@
-# monty
-Project in C using Stack and Queues
+0x19. C - Stacks, Queues - LIFO, FIFO
